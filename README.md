@@ -1,6 +1,10 @@
 ### Boas vindas ao meu perfil 💗
 
-Meu nome é Júlia Leal 
+Meu nome é Júlia Leal
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem javascript
 
 ### Você pode entrar em contato comigo 📫
 
